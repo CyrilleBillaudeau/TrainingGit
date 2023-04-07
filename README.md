@@ -1,5 +1,5 @@
 # TrainingGit
 
-- Modif 1
-- Modif 2
-- Modif 3 via web
+* Modif 1
+* Modif 2
+* Modif 3 via web
